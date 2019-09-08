@@ -1,6 +1,0 @@
-round_epochs,val_loss,val_mean_absolute_error,loss,mean_absolute_error,activation,batch_size,dropout,epochs,first_neuron,hidden_layers,last_activation,shapes
-50,nan,nan,nan,nan,<function relu at 0x00000109FF7FF158>,128,0,500,512,5,<function linear at 0x00000109FF7FF400>,triangle
-50,nan,nan,nan,nan,<function relu at 0x00000109FF7FF158>,128,0,500,512,8,<function linear at 0x00000109FF7FF400>,triangle
-50,nan,nan,nan,nan,<function relu at 0x00000109FF7FF158>,128,0,500,512,12,<function linear at 0x00000109FF7FF400>,triangle
-50,nan,nan,nan,nan,<function relu at 0x00000109FF7FF158>,128,0,500,256,5,<function linear at 0x00000109FF7FF400>,triangle
-50,nan,nan,nan,nan,<function relu at 0x00000109FF7FF158>,128,0,500,256,8,<function linear at 0x00000109FF7FF400>,triangle
